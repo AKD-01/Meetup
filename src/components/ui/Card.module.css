@@ -1,5 +1,11 @@
 .card {
-    background-color: white;
+    background-color: whitesmoke;
     border-radius: 6px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  @media screen and (max-width:600px){
+    .card {
+      border-radius: 3px;
+    }
   }
