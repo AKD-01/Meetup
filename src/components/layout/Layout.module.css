@@ -6,7 +6,7 @@
 
   @media screen and (max-width:600px){
     .main {
-      margin: 1rem 1rem;
+      margin: auto;
       max-width: 20rem;
     }
   }

@@ -1,5 +1,4 @@
 .header {
-
     width: 99vw;
     height: 4.5rem;
     display: flex;
@@ -52,7 +51,7 @@
 
   @media screen and (max-width:600px){
     .header {
-      width:90vw;
+      width:100%;
       height: 4rem;
       padding: 0 2%;
       margin-right: 2rem;
